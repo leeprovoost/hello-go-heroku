@@ -21,3 +21,7 @@ _testmain.go
 
 *.exe
 *.test
+
+# Exclude Intellij files
+.idea
+hello-go-heroku.iml
